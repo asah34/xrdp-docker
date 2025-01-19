@@ -1,27 +1,13 @@
 
-# OpenLedger Installer
-
-Install GUI dan OpenLedger di server Ubuntu.
-
-Apa saja yang dibutuhkan?
-1. VPS Ubuntu
-2. Akun Google
+# Menginstall XRDP dan DOCKER
 
 
 
-## Guide
+## Petunjuk
 
 
 ```bash
-wget https://raw.githubusercontent.com/rennzone/OpenLedger/refs/heads/main/openledger.sh && bash openledger.sh
+wget https://raw.githubusercontent.com/asah34/xrdp-docker/refs/heads/main/xrdp-docker.sh && bash xrdp-docker.sh
 ```
 
-Kemudian akses server kalian via RDP 
-
-```
-openledger-node --no-sandbox
-```
-
-## Support
-
-Join grup Telegram : https://t.me/tutorialnodegrup
+Tunggu sampai selesai dan akses server kalian via RDP 
